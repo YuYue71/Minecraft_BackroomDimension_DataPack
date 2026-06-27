@@ -5,11 +5,11 @@
     "settings": {
       "layers": [
         {
-          "height": 1,
-          "block": "minecraft:smooth_sandstone"
+          "height": 2,
+          "block": "minecraft:end_stone"
         },
         {
-          "height": 1,
+          "height": 2,
           "block": "minecraft:sand"
         }
       ],

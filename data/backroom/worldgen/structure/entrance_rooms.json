@@ -3,7 +3,7 @@
     "start_pool": "backroom:rooms",
     "size": 20,
     "start_height": {
-        "absolute": -253
+        "absolute": -251
     },
     "biomes": ["minecraft:the_void"],
     "max_distance_from_center": 128,
