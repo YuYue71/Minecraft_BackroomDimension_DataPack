@@ -1,0 +1,14 @@
+{
+    "structures": [
+        { "structure": "backroom:entrance_mazes", "weight": 9 },
+        { "structure": "backroom:entrance_gallerys", "weight": 3 },
+        { "structure": "backroom:entrance_repeats", "weight": 3 },
+        { "structure": "backroom:entrance_rooms", "weight": 3 }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 8,
+        "separation": 0,
+        "salt": 199805
+    }
+}

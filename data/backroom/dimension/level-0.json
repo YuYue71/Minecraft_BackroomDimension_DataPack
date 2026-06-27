@@ -1,0 +1,19 @@
+{
+  "type": "backroom:level-0",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:smooth_sandstone"
+        },
+        {
+          "height": 1,
+          "block": "minecraft:sand"
+        }
+      ],
+      "biome": "minecraft:the_void"
+    }
+  }
+}
