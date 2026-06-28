@@ -1,7 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "start_pool": "backroom:repeats",
-    "size": 20,
+    "size": 18,
     "start_height": {
         "absolute": -251
     },

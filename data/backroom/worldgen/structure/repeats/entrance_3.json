@@ -1,9 +1,9 @@
 {
     "type": "minecraft:jigsaw",
-    "start_pool": "backroom:rooms",
+    "start_pool": "backroom:repeats",
     "size": 18,
     "start_height": {
-        "absolute": -236
+        "absolute": -206
     },
     "biomes": ["minecraft:the_void"],
     "max_distance_from_center": 128,
