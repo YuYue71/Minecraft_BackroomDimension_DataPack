@@ -568,6 +568,573 @@
                 "projection": "rigid",
                 "processors": "minecraft:empty"
             }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_2e",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_2f",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_30",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_31",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_32",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_33",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_34",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_35",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_36",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_37",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_38",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_39",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3a",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3b",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3c",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3d",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3e",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_3f",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_40",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_41",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_42",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_43",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_44",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_45",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_46",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_47",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_48",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_49",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4a",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4b",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4c",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4d",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4e",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_4f",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_50",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_51",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_52",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_53",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_54",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_55",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_56",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_57",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_58",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_59",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5a",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5b",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5c",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5d",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5e",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_5f",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_60",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_61",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_62",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_63",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_64",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_65",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_66",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_67",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_68",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_69",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_6a",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_6b",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:mazes/mazes_6c",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
         }
     ]
 }
