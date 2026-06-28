@@ -1,7 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "start_pool": "backroom:mazes",
-    "size": 16,
+    "size": 20,
     "start_height": {
         "absolute": -236
     },
