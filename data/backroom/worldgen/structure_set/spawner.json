@@ -1,13 +1,17 @@
 {
     "structures": [
-        { "structure": "backroom:entrance_mazes", "weight": 9 },
-        { "structure": "backroom:entrance_gallerys", "weight": 3 },
-        { "structure": "backroom:entrance_repeats", "weight": 3 },
-        { "structure": "backroom:entrance_rooms", "weight": 3 }
+        { "structure": "backroom:mazes/entrance_0", "weight": 5 },
+        { "structure": "backroom:mazes/entrance_1", "weight": 5 },
+        { "structure": "backroom:gallerys/entrance_0", "weight": 3 },
+        { "structure": "backroom:gallerys/entrance_1", "weight": 3 },
+        { "structure": "backroom:repeats/entrance_0", "weight": 3 },
+        { "structure": "backroom:repeats/entrance_1", "weight": 3 },
+        { "structure": "backroom:rooms/entrance_0", "weight": 1 },
+        { "structure": "backroom:rooms/entrance_1", "weight": 1 }
     ],
     "placement": {
         "type": "minecraft:random_spread",
-        "spacing": 8,
+        "spacing": 16,
         "separation": 0,
         "salt": 199805
     }
