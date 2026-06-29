@@ -48,6 +48,15 @@
             }
         },
         {
+            "weight": 150,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "backroom:gallerys/l_gallerys_0",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
             "weight": 2,
             "element": {
                 "element_type": "minecraft:single_pool_element",
